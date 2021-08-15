@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dat player</string>
+    <string name="action_search">Поиск</string>
+    <string name="action_playlist">Создать плейлист</string>
+    <string name="action_playlist_add">Добавить</string>
+    <string name="action_playlist_del">Удалить</string>
+</resources>
